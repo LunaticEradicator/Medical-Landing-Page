@@ -59,12 +59,15 @@ ul {
     align-items: center;
     padding-bottom: 50px;
 
+
 }
 
 /* Header  */
 .headerImg {
-    width: 420px;
-    height: 250px;
+    width: 400px;
+    height: 300px;
+    border-radius: 15%;
+    border: 3px solid #371f35;
 }
 
 .left {
@@ -93,17 +96,17 @@ h1 {
     /* background-color: #1f2937; */
     color: #371f35;
     display: flex;
-
     justify-content: center;
     align-items: center;
     padding-bottom: 50px;
-
 }
 
 /* Content */
 .bike {
-    width: 200x;
-    height: 120px;
+    width: 160px;
+    height: 125px;
+    border-radius: 15%;
+
 }
 
 .imgOne {
